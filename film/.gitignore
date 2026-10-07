@@ -1,0 +1,5 @@
+fonts/*.ttf
+stills/
+out/*.parts/
+out/*.video.mp4
+out/raw.wav
