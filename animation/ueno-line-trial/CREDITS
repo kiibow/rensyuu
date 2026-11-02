@@ -1,0 +1,8 @@
+ほどける線 — うえの弁護士事務所 試作（One-line Drawing スタイル）
+
+Picture: drawn entirely by code (one continuous SVG-sampled path, Canvas2D ink renderer, procedural paper).
+  Engine files geom.js / ink.js / paper.js / cam.js / hands.js adapted from Lemo-Opuscar (MIT License, © 2026 LemoLab).
+Font (SIL Open Font License 1.1, fonts/OFL.txt): Klee One — Fontworks (github.com/google/fonts/tree/main/ofl/kleeone)
+Music: original score (score.py), physically modelled nylon guitar (core/audio/pluck.py, Lemo-Opuscar, MIT). No samples.
+Sound effects: synthesized in mix.py (pen on paper, tap, ink blot, page lift, room tone).
+No voice.
