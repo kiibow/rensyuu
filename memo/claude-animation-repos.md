@@ -11,20 +11,25 @@
 
 ## リポジトリ一覧
 
-| # | 名前 | 内容 | URL（投稿では省略表示） |
+| # | 名前 | 内容 | URL |
 |---|------|------|------|
-| 1 | awesome-opus5-5-videos | Opus 5.5 生成アニメーションのアーカイブ（3Dシーン、モーショングラフィックス等）。成功例のプロンプト研究向け | github.com/yihui-dev/awes… |
-| 2 | lemo-opuscar | Claude Code 向け 66 種のビデオ/アニメーションスタイル。好きなスタイルを自分のテーマに適応。サンプルはコード生成（AIビデオモデル不要）。**最も実用的** | github.com/lemomo-ai/lemo… |
-| 3 | pdoom-video | 全部コードで作ったMVのソース。音楽同期アニメ、カラオケエフェクト、3D、4Kレンダリング工程 | github.com/mexicat/pdoom-… |
-| 4 | PDoomVideo | 3と同じ曲の別MV。3と比較すると表現の幅がわかる | github.com/JohnHeibel/PDo… |
-| 5 | mg-styles-15 | 15種のモーショングラフィックス。各10秒サンプル＋プロンプト＋ソース。YouTube向け統計アニメ・製品紹介に | github.com/Vincentwei1021… |
-| 6 | ClaudeAnimationBase | カートゥーン風キャラアニメのスターター。31種の感情表現、キャラの動き、開発ガイド | github.com/JohnHeibel/Cla… |
-| 7 | awesome-claude-5-5-videos | Claude製アニメと制作プロセスのアーカイブ。オリジナルソース、使用ツール、ワークフロー | github.com/athemeroy/awes… |
-| 8 | opus-video-prompts | そのまま使えるビデオ生成プロンプト集（54サンプル） | github.com/joeseesun/opus… |
+| 1 | awesome-opus5-5-videos | Opus 5.5 生成アニメーションのアーカイブ（3Dシーン、モーショングラフィックス等）。成功例のプロンプト研究向け | https://github.com/yihui-dev/awesome-opus5-5-videos （★13.2k） |
+| 2 | lemo-opuscar | Claude Code 向け 66 種のビデオ/アニメーションスタイル。好きなスタイルを自分のテーマに適応。サンプルはコード生成（AIビデオモデル不要）。**最も実用的** | https://github.com/lemomo-ai/lemo-opuscar （★11.1k, MIT） |
+| 3 | pdoom-video | 全部コードで作ったMVのソース。音楽同期アニメ、カラオケエフェクト、3D、4Kレンダリング工程 | https://github.com/mexicat/pdoom-video （★3.7k） |
+| 4 | PDoomVideo | 3と同じ曲の別MV。3と比較すると表現の幅がわかる | https://github.com/JohnHeibel/PDoomVideo （★2.8k） |
+| 5 | mg-styles-15 | 15種のモーショングラフィックス。各10秒サンプル＋プロンプト＋ソース。YouTube向け統計アニメ・製品紹介に | https://github.com/Vincentwei1021/mg-styles-15 （★2.9k） |
+| 6 | ClaudeAnimationBase | カートゥーン風キャラアニメのスターター。31種の感情表現、キャラの動き、開発ガイド | https://github.com/JohnHeibel/ClaudeAnimationBase （★2.4k, p5.js + p5.brush） |
+| 7 | awesome-claude-5-5-videos | Claude製アニメと制作プロセスのアーカイブ。オリジナルソース、使用ツール、ワークフロー | https://github.com/athemeroy/awesome-claude-5-5-videos （★0.9k） |
+| 8 | opus-video-prompts | そのまま使えるビデオ生成プロンプト集（54サンプル） | https://github.com/joeseesun/opus-video-prompts （★0.9k） |
+
+## 関連して見つかったもの
+- instax-dutta/opencode-lemo-opuscar — Lemo-Opuscar を OpenCode で使うためのアダプタ
+- 2606156052/Pdoom-video-anime-version — P(doom) のアニメOP風リメイク（Claude + WebGL）
+- 同名のフォーク／コピーが多数あるので、上の本家（★が多い方）を使うこと
 
 ## 参考サンプル
 - 🎬 「Aura — Hear the Light」— 開発: LemoLab / プロジェクト: Lemo-Opuscar（Claude Opus 5.5）
 
 ## TODO
-- [ ] URLが途中で切れているので、正式なリポジトリ名を確認する
+- [x] 正式なURLを確認（2026-11-02、GitHub検索で8件とも一致。★数は確認時点）
 - [ ] まず 1（awesome-opus5-5-videos）と 2（lemo-opuscar）を見てみる
