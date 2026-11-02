@@ -1,0 +1,5 @@
+整う — うえの弁護士事務所 試作 v2（Swiss Motion Graphics スタイル）
+Picture: Canvas2D code in main.js. ease.js adapted from Lemo-Opuscar (MIT License, © 2026 LemoLab).
+Font (SIL Open Font License 1.1, fonts/OFL.txt): Noto Sans JP — Google (github.com/google/fonts/tree/main/ofl/notosansjp)
+Music: original score in audio.py, modelled kalimba and pizzicato bass (core/audio/pluck.py, Lemo-Opuscar, MIT); synthesized kick and hat. No samples, no voice.
+Sound effects: synthesized in audio.py (paper slap, numeral thunk, ruling pen, guillotine snick, landing).
